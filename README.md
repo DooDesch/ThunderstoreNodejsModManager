@@ -1,5 +1,8 @@
 # Thunderstore Nodejs Mod Manager
 
+> 🛟 **Need help or found a bug?** Get support at [support.doodesch.de](https://support.doodesch.de).
+
+
 Thunderstore Nodejs Mod Manager is a command-line tool that makes it easy to download and manage mods for your favorite games from [Thunderstore](https://thunderstore.io), a popular mod hosting website.
 
 ## Table of Contents
